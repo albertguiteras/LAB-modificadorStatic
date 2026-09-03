@@ -1,6 +1,5 @@
 package ejercicio1;
 
-
 /*Ejercicio: la perrera
 Tienes una clase Perro.
 Cada perro tiene:
