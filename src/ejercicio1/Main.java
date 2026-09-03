@@ -16,7 +16,6 @@ El perro se llama Toby, (* id extra), tiene 4 años, dice 'Guau guau!' y necesit
 
 import java.time.LocalDate;
 
-
 public class Main {
     public static void main(String[] args) {
 
