@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LAB-modificadorStatic.iml" filepath="$PROJECT_DIR$/LAB-modificadorStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-modificadorStatic.iml" filepath="$PROJECT_DIR$/lab-modificadorStatic.iml" />
     </modules>
   </component>
 </project>
